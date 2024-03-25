@@ -1,0 +1,2 @@
+# webpak
+o'quv proyekti
